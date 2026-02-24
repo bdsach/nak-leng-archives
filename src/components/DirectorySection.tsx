@@ -13,7 +13,7 @@ export const DirectorySection: React.FunctionComponent = () => {
 
   // 2. กรองข้อมูล (Filter)
   const filteredFigures = figures.filter((f) => {
-    const searchStr = `${f.firstName} ${f.lastName} ${f.alias}`.toLowerCase();
+    const searchStr = `${f.name} ${f.alias}`.toLowerCase();
     return searchStr.includes(searchQuery.toLowerCase());
   });
 

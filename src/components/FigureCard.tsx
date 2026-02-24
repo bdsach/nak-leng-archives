@@ -70,7 +70,7 @@ export const FigureCard: React.FunctionComponent<FigureCardProps> = ({
           </div>
 
           <h4 className="font-playpen-sans-thai text-sm font-medium tracking-widest text-slate-400 uppercase">
-            {figure.firstName}&nbsp;{figure.lastName}
+            {figure.name}
           </h4>
         </div>
 

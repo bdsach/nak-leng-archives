@@ -1,7 +1,6 @@
 interface Figure {
   id: string;
   alias: string;
-  firstName: string;
-  lastName: string;
+  name: string;
   imageUrl: string;
 }

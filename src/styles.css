@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #8b0000;
+  --color-blood: #660000;
+  --color-smoke: #1a1a1a;
+  --color-steel: #4a4a4a;
+  --color-gold-tint: #c5a059;
+
+  --font-playpen-sans-thai: "Playpen Sans Thai", cursive;
+}

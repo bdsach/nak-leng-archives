@@ -151,7 +151,7 @@ export const figures: Figure[] = [
   },
   {
     id: "apichat_s",
-    name: "คุณรศ. อภิชาต สถิตนิรามัย",
+    name: "รศ. อภิชาต สถิตนิรามัย",
     alias: "คะหน่าลุ้ย มไหสวรรย์",
     imageUrl: "/avatars/apichat_s.jpeg",
   },

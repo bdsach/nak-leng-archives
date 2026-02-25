@@ -109,7 +109,7 @@ export const figures: Figure[] = [
   },
   {
     id: "jug_k",
-    name: "อาจารย์จั๊ก",
+    name: "อาจารย์จั๊ก ษัษฐรัมย์",
     alias: "ยูฟ่า พุทธมณฑลสาย3",
     imageUrl: "/avatars/jug_k.jpeg",
   },

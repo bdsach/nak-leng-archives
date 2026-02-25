@@ -2,7 +2,7 @@ export const figures: Figure[] = [
   {
     id: "supanut_m",
     name: "ศุภณัฐ มีนชัยนันท์",
-    alias: "แฮรี่ พระยาสุเรน",
+    alias: "แฮรี่ พระยาสุเรนทร์",
     imageUrl: "/avatars/supanut_m.jpeg",
   },
   {
@@ -160,5 +160,17 @@ export const figures: Figure[] = [
     name: "คุณแม็กซ์ ธีระชาติ ก่อตระกูล",
     alias: "โต้ง ปรีดี",
     imageUrl: "/avatars/max_t.jpeg",
+  },
+  {
+    id: "john_winyu",
+    name: "จอห์น วิญญู",
+    alias: "มิคกี้ พระราม 6",
+    imageUrl: "/avatars/john_winyu.jpeg",
+  },
+  {
+    id: "palm_j",
+    name: "ปาล์ม เจนอักษร",
+    alias: "โก้ ติวานนท์",
+    imageUrl: "/avatars/palm_j.jpeg",
   },
 ];

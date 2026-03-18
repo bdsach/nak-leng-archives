@@ -1,5 +1,11 @@
 export const figures: Figure[] = [
   {
+    id: "sahassawat_kk",
+    name: "สหัสวัต คุ้มคง",
+    alias: "ริชชี่ บ่อวิน",
+    imageUrl: "/avatars/sahassawat_kk.jpeg",
+  },
+  {
     id: "supanut_m",
     name: "ศุภณัฐ มีนชัยนันท์",
     alias: "แฮรี่ พระยาสุเรนทร์",

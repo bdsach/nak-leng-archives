@@ -33,8 +33,7 @@ export const HeroSection: React.FunctionComponent = () => {
       className="border-primary/20 relative overflow-hidden border-b px-6 py-24 lg:px-20"
       style={{
         backgroundColor: "#0a0a0a",
-        backgroundImage:
-          "url(https://lh3.googleusercontent.com/aida-public/AB6AXuDi_f23r3UFzYrdhMYEA_nTeJMNalba3p6O5JqDxOJd5ibugwcMkDR25spd9vrc4w-vmWeykwBiZw1rBXehP1psyt57hMTsj8gZUmDj5PPxHq_qkVXM6RU4LKnAHZ58bo4J_-6ualmkdPShOTdDvgBTbQzeEpUgdtJc14BbRgkqLbRXXVYkScZO0GCoHNiWpK9VxylJf_06puPh_7_wyR206HoaUxTX3-ztptAjWLJBPjc5iwA27kgyADeSPBOr-UiMGy4mPZe7IaA)",
+        backgroundImage: "url(header-bg.png)",
         backgroundAttachment: "fixed",
       }}
     >

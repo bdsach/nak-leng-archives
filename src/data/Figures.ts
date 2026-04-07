@@ -1,5 +1,11 @@
 export const figures: Figure[] = [
   {
+    id: "sombat_b",
+    name: "สมบัติ บุญงามอนงค์",
+    alias: "สีฟ้า พระราม 4 (หริ่ง Las Vegas)",
+    imageUrl: "/avatars/sombat_b.jpeg",
+  },
+  {
     id: "supachot_c",
     name: "ศุภโชติ ไชยสัจ",
     alias: "โทโมะ ต้นสน",

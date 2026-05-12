@@ -1,5 +1,11 @@
 export const figures: Figure[] = [
   {
+    id: "bhuntin_n",
+    name: "ภัณฑิล น่วมเจิม",
+    alias: "เมฆ ราม 4",
+    imageUrl: "/avatars/bhuntin_n.jpeg",
+  },
+  {
     id: "veerayooth_k",
     name: "วีระยุทธ กาญจน์ชูฉัตร",
     alias: "ตาล อ่างหิน",
